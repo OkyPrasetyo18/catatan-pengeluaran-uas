@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Catatan Pengeluaran oky</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="save">SIMPAN</string>
+    <string name="update">UPDATE</string>
+    <string name="income">PENGHASILAN</string>
+    <string name="expenses">PENGELUARAN</string>
+    <string name="balance">KESEIMBANGAN</string>
+    <string name="date">Tanggal</string>
+    <string name="kategori">Kategori</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="note">Catatan</string>
+    <string name="create">Buat Akun</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="konfirmasi">Konfirmasi Password</string>
+</resources>
